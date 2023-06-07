@@ -6,4 +6,5 @@ public class Deneme02 {
 
     //  4 files changed, 0 insertions(+), 0 deletions(-)
     // Version 7  zsh: parse error near `\n'
+    int file =101;
 }
