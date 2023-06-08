@@ -6,4 +6,5 @@ public class Deneme02 {
     // Ilk versionda degisiklik yaptim ancak bu version 9 oldu version ilk aynen kaldi
     // direkt commit
     // version 11
+    // Githuptan degisklikleri
 }
